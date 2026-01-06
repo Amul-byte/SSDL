@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+scikit-learn
+PyYAML
+tqdm
+einops
+ema-pytorch
+accelerate
+adabelief-pytorch
+matplotlib
+opencv-python
+imageio
+imageio-ffmpeg
+moviepy
+pytorch-fid
